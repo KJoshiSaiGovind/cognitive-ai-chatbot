@@ -1,0 +1,77 @@
+[
+  {
+    "intent": "greeting",
+    "examples": ["hi", "hello", "hey", "good morning", "good evening", "yo", "what's up"],
+    "response": "Hello there! 👋 How can I assist you today?"
+  },
+  {
+    "intent": "goodbye",
+    "examples": ["bye", "goodbye", "see you", "see you later", "take care"],
+    "response": "Goodbye! Have a wonderful day ahead! 🌞"
+  },
+  {
+    "intent": "creator",
+    "examples": ["who created you", "who made you", "your developer", "who built you"],
+    "response": "I was developed as part of a Cognitive AI case study to simulate human reasoning in dialogues! 🤖"
+  },
+  {
+    "intent": "feeling",
+    "examples": ["how are you", "what's up", "how is it going", "how do you feel"],
+    "response": "I'm functioning perfectly, thank you for asking! 😄 How about you?"
+  },
+  {
+    "intent": "thanks",
+    "examples": ["thank you", "thanks", "appreciate it", "thanks a lot"],
+    "response": "You're very welcome! Always happy to help! 🙌"
+  },
+  {
+    "intent": "time",
+    "examples": ["what time is it", "tell me the time", "current time", "can you tell the time"],
+    "response": "I can’t read your device clock directly, but you can check the current time in your system tray 🕒"
+  },
+  {
+    "intent": "date",
+    "examples": ["what date is it", "today’s date", "current date"],
+    "response": "Check your calendar — today’s a perfect day to learn something new! 📅"
+  },
+  {
+    "intent": "weather",
+    "examples": ["what’s the weather", "weather update", "is it raining", "temperature"],
+    "response": "I can’t access live weather data yet 🌦️, but you can integrate an API like OpenWeatherMap to add that feature!"
+  },
+  {
+    "intent": "help",
+    "examples": ["help", "i need help", "can you help me", "assist me"],
+    "response": "Of course! Tell me what you’re trying to do — I’ll do my best to guide you."
+  },
+  {
+    "intent": "name",
+    "examples": ["what's your name", "who are you", "your name please"],
+    "response": "I'm your Cognitive AI assistant — built to simulate human-like reasoning and dialogue!"
+  },
+  {
+    "intent": "age",
+    "examples": ["how old are you", "your age"],
+    "response": "I don’t age like humans — I just keep improving with data! 😎"
+  },
+  {
+    "intent": "joke",
+    "examples": ["tell me a joke", "make me laugh", "funny joke"],
+    "response": "Why did the computer show up at work late? Because it had a hard drive! 😂"
+  },
+  {
+    "intent": "ai_definition",
+    "examples": ["what is ai", "define artificial intelligence", "explain ai"],
+    "response": "Artificial Intelligence is the simulation of human intelligence in machines that can reason, learn, and make decisions!"
+  },
+  {
+    "intent": "ml_definition",
+    "examples": ["what is machine learning", "define ml", "explain machine learning"],
+    "response": "Machine Learning is a branch of AI that allows computers to learn from data and improve automatically without being explicitly programmed!"
+  },
+  {
+    "intent": "fun_fact",
+    "examples": ["tell me a fun fact", "interesting fact", "random fact"],
+    "response": "Did you know? The first computer bug was an actual moth found inside a Harvard Mark II computer in 1947! 🪰"
+  }
+]
